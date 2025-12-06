@@ -1,0 +1,125 @@
+Run 1: copt_O0_ref
+Running MATRIX_INIT with n = 3000 loop = 200
+
+UNOPTIMIZED(ms):        7233.0
+OPTIMIZED(ms):          3216.0
+SPEEDUP:                  2.25
+
+Running ARRAY_INIT with n = 300000 loop = 20000
+
+UNOPTIMIZED(ms):        8616.0
+OPTIMIZED(ms):          3100.0
+SPEEDUP:                  2.78
+
+Running FACTORIAL with n = 20 loop = 200000000
+
+UNOPTIMIZED(ms):        9983.0
+OPTIMIZED(ms):          5150.0
+SPEEDUP:                  1.94
+
+Running MATRIX_MULTIPLY with n = 1600 loop = 1
+
+UNOPTIMIZED(ms):       15166.0
+OPTIMIZED(ms):         13583.0
+SPEEDUP:                  1.12
+
+Run 2: copt_O0_ref
+Running MATRIX_INIT with n = 3000 loop = 200
+
+UNOPTIMIZED(ms):        7066.0
+OPTIMIZED(ms):          3167.0
+SPEEDUP:                  2.23
+
+Running ARRAY_INIT with n = 300000 loop = 20000
+
+UNOPTIMIZED(ms):        8466.0
+OPTIMIZED(ms):          3150.0
+SPEEDUP:                  2.69
+
+Running FACTORIAL with n = 20 loop = 200000000
+
+UNOPTIMIZED(ms):       10050.0
+OPTIMIZED(ms):          5550.0
+SPEEDUP:                  1.81
+
+Running MATRIX_MULTIPLY with n = 1600 loop = 1
+
+UNOPTIMIZED(ms):       15400.0
+OPTIMIZED(ms):         13600.0
+SPEEDUP:                  1.13
+
+Run 3: copt_O0_ref
+Running MATRIX_INIT with n = 3000 loop = 200
+
+UNOPTIMIZED(ms):        7083.0
+OPTIMIZED(ms):          3183.0
+SPEEDUP:                  2.23
+
+Running ARRAY_INIT with n = 300000 loop = 20000
+
+UNOPTIMIZED(ms):        8783.0
+OPTIMIZED(ms):          3100.0
+SPEEDUP:                  2.83
+
+Running FACTORIAL with n = 20 loop = 200000000
+
+UNOPTIMIZED(ms):       10033.0
+OPTIMIZED(ms):          5450.0
+SPEEDUP:                  1.84
+
+Running MATRIX_MULTIPLY with n = 1600 loop = 1
+
+UNOPTIMIZED(ms):       15950.0
+OPTIMIZED(ms):         13900.0
+SPEEDUP:                  1.15
+
+Run 4: copt_O0_ref
+Running MATRIX_INIT with n = 3000 loop = 200
+
+UNOPTIMIZED(ms):        7233.0
+OPTIMIZED(ms):          3283.0
+SPEEDUP:                  2.20
+
+Running ARRAY_INIT with n = 300000 loop = 20000
+
+UNOPTIMIZED(ms):        9133.0
+OPTIMIZED(ms):          3150.0
+SPEEDUP:                  2.90
+
+Running FACTORIAL with n = 20 loop = 200000000
+
+UNOPTIMIZED(ms):       10116.0
+OPTIMIZED(ms):          5817.0
+SPEEDUP:                  1.74
+
+Running MATRIX_MULTIPLY with n = 1600 loop = 1
+
+UNOPTIMIZED(ms):       16583.0
+OPTIMIZED(ms):         13883.0
+SPEEDUP:                  1.19
+
+Run 5: copt_O0_ref
+Running MATRIX_INIT with n = 3000 loop = 200
+
+UNOPTIMIZED(ms):        7283.0
+OPTIMIZED(ms):          3333.0
+SPEEDUP:                  2.19
+
+Running ARRAY_INIT with n = 300000 loop = 20000
+
+UNOPTIMIZED(ms):        9233.0
+OPTIMIZED(ms):          3216.0
+SPEEDUP:                  2.87
+
+Running FACTORIAL with n = 20 loop = 200000000
+
+UNOPTIMIZED(ms):       10366.0
+OPTIMIZED(ms):          5484.0
+SPEEDUP:                  1.89
+
+Running MATRIX_MULTIPLY with n = 1600 loop = 1
+
+UNOPTIMIZED(ms):       16783.0
+OPTIMIZED(ms):         13833.0
+SPEEDUP:                  1.21
+
